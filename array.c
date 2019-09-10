@@ -1,3 +1,5 @@
+
+//Given the size and the elements of array A, print all the elements in reverse order.
 #include <stdio.h>
 #define max_size 100
 int main()
@@ -14,3 +16,16 @@ int main()
     }
     return 0;
 }
+/*SAMPLE INPUT 
+5
+4
+12
+7
+15
+9
+SAMPLE OUTPUT 
+9
+15
+7
+12
+4*/
